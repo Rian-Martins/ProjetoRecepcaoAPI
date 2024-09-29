@@ -1,0 +1,667 @@
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+C:\Users\riann\OneDrive\Área de Trabalho\Trabalho\Projetos Programação\ProjetoAtendeOnline\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+D:\backup Rian\Projetos\ProjetoAtendeOnline  -- Diego\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.sourcelink.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcao\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\appsettings.Development.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\appsettings.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.exe
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.deps.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.runtimeconfig.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Humanizer.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Identity.Core.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.CodeDom.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.AssemblyReference.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfoInputs.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.AssemblyInfo.cs
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.csproj.CoreCompileInputs.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cs
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.MvcApplicationPartsAssemblyInfo.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.build.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.development.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoRecepcao.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoRecepcao.props
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\staticwebassets.pack.json
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\scopedcss\bundle\ProjetoRecepcao.styles.css
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoR.492150DB.Up2Date
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\refint\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
