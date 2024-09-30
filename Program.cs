@@ -27,12 +27,17 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));//String para a conexão
 
 builder.Services.AddScoped<IAlunoService, AlunoService>();
-
+builder.Services.AddScoped<IReposicaoService, ReposicaoService>();
 
 builder.Services.Configure<RouteOptions>(options =>
 {
+    options.ConstraintMap.Add("date", typeof(DateOnlyRouteConstraint));
     options.ConstraintMap.Add("customConstraint", typeof(CustomRouteConstraint));
 });
+
+
+
+
 
 builder.Services.AddCors(options =>
 {

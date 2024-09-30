@@ -665,3 +665,4 @@ D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepc
 D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.pdb
 D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.genruntimeconfig.cache
 D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ref\ProjetoRecepcao.dll
+D:\backup Rian\Projetos\0 ProjetoRecepcaoRoyal\ProjetoAtendeOnline\ProjetoRecepcaoAPI-main\ProjetoRecepcao\obj\Debug\net8.0\ProjetoRecepcao.sourcelink.json

@@ -13,6 +13,7 @@ namespace ProjetoRecepcao.Contexto
         // DbSet para Aluno, AlunoHorario
         public DbSet<Aluno> Alunos { get; set; }
         /*public DbSet<AlunoHorario> AlunoHorarios { get; set; */
+        public DbSet<PlanilhaReposicao> PlanilhaReposicaos { get; set; }
 
 
 
@@ -20,6 +21,7 @@ namespace ProjetoRecepcao.Contexto
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Aluno>();
+            modelBuilder.Entity<PlanilhaReposicao>();
         }
     }
     

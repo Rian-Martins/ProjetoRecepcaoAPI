@@ -49,7 +49,7 @@ namespace ProjetoRecepcao.Servicos
         {
             return await _context.Alunos.FindAsync(alunoId);
         }
-
+                
 
         public async Task<IEnumerable<Aluno>> GetAlunoByNome(string nome)
         {
@@ -144,15 +144,26 @@ namespace ProjetoRecepcao.Servicos
 
 
 
-
-
-
-
         public async Task DeleteAluno(Aluno aluno)
         {
             _context.Alunos.Remove(aluno);
             await _context.SaveChangesAsync();
         }
 
+        public async Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data)
+        {
+            return await _context.Alunos
+                .Where(p => p.Data == data)
+                .ToListAsync();
+        }
+
+        //não está sendo utilizado
+        public async Task<Aluno> GetAlunoBydata(Guid alunoId, DateOnly data)
+        {
+            return await _context.Alunos
+                .Where(n => n.AlunoId == alunoId && n.Data == data) // Filtra por ID e data
+                .OrderBy(n => n.Data) // Ordena pela data (pode não ser necessário se você espera um único aluno)
+                .FirstOrDefaultAsync(); // Retorna o primeiro aluno ou null se não encontrado
+        }
     }
 }

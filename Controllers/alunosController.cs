@@ -172,8 +172,31 @@ namespace ProjetoRecepcao.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao excluir aluno: {ex.Message}");
             }
         }
+        [HttpGet("pesquisar/data/{data}", Name = "GetAlunoByData")]
+        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByData(DateOnly data)
+        {
+            try
+            {
+                var reposicaoDia = await _alunoService.GetAlunoByData(data);
 
-        
-        
+                if (!reposicaoDia.Any())
+                {
+                    return NotFound($"Não existem alunos com a data: {data}");
+                }
+
+                return Ok(reposicaoDia);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao obter alunos por data: {ex.Message}");
+            }
+        }
+
+
+
+
+
+
+
     }
 }

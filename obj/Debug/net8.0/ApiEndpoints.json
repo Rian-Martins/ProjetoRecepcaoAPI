@@ -138,6 +138,33 @@
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.alunosController",
+    "Method": "GetAlunoByData",
+    "RelativePath": "api/alunos/pesquisar/data/{data}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.DateOnly",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[ProjetoRecepcao.Identidade.PlanilhaReposicao, ProjetoRecepcao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAlunoByData"
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.alunosController",
     "Method": "GetAlunoByNome",
     "RelativePath": "api/alunos/pesquisarnome",
     "HttpMethod": "GET",
@@ -153,6 +180,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[ProjetoRecepcao.Identidade.Aluno, ProjetoRecepcao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "GetReposicaoByData",
+    "RelativePath": "reposicao/dia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[ProjetoRecepcao.Identidade.PlanilhaReposicao, ProjetoRecepcao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
