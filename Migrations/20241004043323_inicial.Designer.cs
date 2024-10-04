@@ -12,8 +12,8 @@ using ProjetoRecepcao.Contexto;
 namespace ProjetoRecepcao.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240929232402_AddPlanilhaReposicao")]
-    partial class AddPlanilhaReposicao
+    [Migration("20241004043323_inicial")]
+    partial class inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

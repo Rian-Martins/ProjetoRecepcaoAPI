@@ -16,8 +16,8 @@ namespace ProjetoRecepcao.Migrations
                 name: "Alunos",
                 columns: table => new
                 {
-                    Id = table.Column<Guid>(type: "uuid", nullable: false),
-                    Nome = table.Column<string>(type: "character varying(100)", maxLength: 100, nullable: false),
+                    AlunoId = table.Column<Guid>(type: "uuid", nullable: false),
+                    Nome = table.Column<string>(type: "text", nullable: true),
                     Horario = table.Column<string>(type: "text", nullable: false),
                     Data = table.Column<DateOnly>(type: "date", nullable: false),
                     Professor = table.Column<string>(type: "text", nullable: true),
@@ -25,7 +25,7 @@ namespace ProjetoRecepcao.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Alunos", x => x.Id);
+                    table.PrimaryKey("PK_Alunos", x => x.AlunoId);
                 });
 
             migrationBuilder.CreateTable(
@@ -68,63 +68,19 @@ namespace ProjetoRecepcao.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "AlunoHorarios",
+                name: "PlanilhaReposicao",
                 columns: table => new
                 {
-                    Id = table.Column<Guid>(type: "uuid", nullable: false),
-                    Horario = table.Column<string>(type: "text", nullable: false)
+                    AlunoId = table.Column<Guid>(type: "uuid", nullable: false),
+                    Nome = table.Column<string>(type: "text", nullable: true),
+                    Horario = table.Column<string>(type: "text", nullable: false),
+                    Data = table.Column<DateOnly>(type: "date", nullable: false),
+                    Professor = table.Column<string>(type: "text", nullable: true),
+                    DiaSemana = table.Column<string>(type: "text", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_AlunoHorarios", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_AlunoHorarios_Alunos_Id",
-                        column: x => x.Id,
-                        principalTable: "Alunos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "SistemaCores",
-                columns: table => new
-                {
-                    Id = table.Column<Guid>(type: "uuid", nullable: false),
-                    CorEscolhida = table.Column<string>(type: "text", nullable: true),
-                    Reposicao = table.Column<string>(type: "text", nullable: true),
-                    Tempo = table.Column<string>(type: "text", nullable: false),
-                    AlunoId = table.Column<Guid>(type: "uuid", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_SistemaCores", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_SistemaCores_Alunos_AlunoId",
-                        column: x => x.AlunoId,
-                        principalTable: "Alunos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "SistemaVagas",
-                columns: table => new
-                {
-                    Id = table.Column<Guid>(type: "uuid", nullable: false),
-                    QuantidadeVagas = table.Column<string>(type: "text", nullable: true),
-                    TempoTemporario = table.Column<bool>(type: "boolean", nullable: false),
-                    VagasTotaisPorHorario = table.Column<string>(type: "text", nullable: false),
-                    AlunoId = table.Column<Guid>(type: "uuid", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_SistemaVagas", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_SistemaVagas_Alunos_AlunoId",
-                        column: x => x.AlunoId,
-                        principalTable: "Alunos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                    table.PrimaryKey("PK_PlanilhaReposicao", x => x.AlunoId);
                 });
 
             migrationBuilder.CreateTable(
@@ -269,23 +225,13 @@ namespace ProjetoRecepcao.Migrations
                 table: "AspNetUsers",
                 column: "NormalizedUserName",
                 unique: true);
-
-            migrationBuilder.CreateIndex(
-                name: "IX_SistemaCores_AlunoId",
-                table: "SistemaCores",
-                column: "AlunoId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_SistemaVagas_AlunoId",
-                table: "SistemaVagas",
-                column: "AlunoId");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "AlunoHorarios");
+                name: "Alunos");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoleClaims");
@@ -303,19 +249,13 @@ namespace ProjetoRecepcao.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "SistemaCores");
-
-            migrationBuilder.DropTable(
-                name: "SistemaVagas");
+                name: "PlanilhaReposicao");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");
 
             migrationBuilder.DropTable(
                 name: "AspNetUsers");
-
-            migrationBuilder.DropTable(
-                name: "Alunos");
         }
     }
 }

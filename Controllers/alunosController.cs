@@ -9,7 +9,7 @@ using System;
 
 namespace ProjetoRecepcao.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/alunos")]
     [ApiController]
     public class alunosController : ControllerBase
     {
@@ -55,7 +55,7 @@ namespace ProjetoRecepcao.Controllers
             }
         }
 
-        [HttpGet("{id:guid}", Name = "GetAluno")]
+        [HttpGet("{id:guid}")]
         public async Task<ActionResult<Aluno>> GetAluno(Guid id)
         {
             try
@@ -172,7 +172,7 @@ namespace ProjetoRecepcao.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao excluir aluno: {ex.Message}");
             }
         }
-        [HttpGet("pesquisar/data/{data}/horario/{horario}", Name = "GetAlunoByDataAndHorario")]
+        [HttpGet("pesquisar/data/{data}/horario/{horario}")]
         public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataAndHorario(DateOnly data, string horario)
         {
             try

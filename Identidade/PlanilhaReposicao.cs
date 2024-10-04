@@ -8,6 +8,7 @@ namespace ProjetoRecepcao.Identidade
     {
         
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Configura auto incremento
         public Guid AlunoId { get; set; }
         public string? Nome { get; set; }
         public string Horario { get; set; }

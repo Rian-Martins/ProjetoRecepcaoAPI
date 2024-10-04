@@ -23,8 +23,7 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetAluno"
+    ]
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.alunosController",
@@ -165,8 +164,7 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetAlunoByDataAndHorario"
+    ]
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.alunosController",
@@ -196,8 +194,71 @@
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
-    "Method": "GetReposicaoByData",
-    "RelativePath": "reposicao/dia",
+    "Method": "Edit",
+    "RelativePath": "api/alunosreposicao/atualizarrepo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "planilhaReposicao",
+        "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "CreatePlanilhaReposicao",
+    "RelativePath": "api/alunosreposicao/criarrep",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "planilhaReposicao",
+        "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "Delete",
+    "RelativePath": "api/alunosreposicao/deletarrepo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "GetAlunoByDataHorario",
+    "RelativePath": "api/alunosreposicao/listar/data/{data}/horario/{horario}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -205,12 +266,90 @@
       {
         "Name": "data",
         "Type": "System.DateOnly",
-        "IsRequired": false
+        "IsRequired": true
+      },
+      {
+        "Name": "horario",
+        "Type": "System.String",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[ProjetoRecepcao.Identidade.PlanilhaReposicao, ProjetoRecepcao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "GetReposicao",
+    "RelativePath": "api/alunosreposicao/listarrepo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IAsyncEnumerable\u00601[[ProjetoRecepcao.Identidade.PlanilhaReposicao, ProjetoRecepcao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "GetReposicaoById",
+    "RelativePath": "api/alunosreposicao/pesquisar/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetReposicaoById"
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "GetReposicao",
+    "RelativePath": "listarunirep{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
         "MediaTypes": [
           "text/plain",
           "application/json",
