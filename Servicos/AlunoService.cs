@@ -150,10 +150,10 @@ namespace ProjetoRecepcao.Servicos
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data)
+        public async Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data, string horario)
         {
             return await _context.Alunos
-                .Where(p => p.Data == data)
+                .Where(p => p.Data == data && p.Horario == horario)
                 .ToListAsync();
         }
 

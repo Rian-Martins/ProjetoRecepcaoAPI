@@ -12,7 +12,7 @@ namespace ProjetoRecepcao.Servicos
         Task<IEnumerable<Aluno>> GetAlunoByNome(string nome);        
         Task<IEnumerable<Aluno>> GetAlunoByid( Guid id);
         Task<Aluno> GetAlunoById(Guid id);
-        Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data);
+        Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data, string horario);
         Task<Aluno> GetAlunoBydata(Guid alunoId, DateOnly data);
         Task CreateAluno(Aluno aluno);
         Task UpdateAluno(Aluno aluno);

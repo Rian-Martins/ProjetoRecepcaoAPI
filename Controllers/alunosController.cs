@@ -172,25 +172,27 @@ namespace ProjetoRecepcao.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao excluir aluno: {ex.Message}");
             }
         }
-        [HttpGet("pesquisar/data/{data}", Name = "GetAlunoByData")]
-        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByData(DateOnly data)
+        [HttpGet("pesquisar/data/{data}/horario/{horario}", Name = "GetAlunoByDataAndHorario")]
+        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataAndHorario(DateOnly data, string horario)
         {
             try
             {
-                var reposicaoDia = await _alunoService.GetAlunoByData(data);
+                // Supondo que você tenha um método no seu serviço que recebe data e horário
+                var reposicaoDia = await _alunoService.GetAlunoByData(data, horario);
 
                 if (!reposicaoDia.Any())
                 {
-                    return NotFound($"Não existem alunos com a data: {data}");
+                    return NotFound($"Não existem alunos com a data: {data} e horário: {horario}");
                 }
 
                 return Ok(reposicaoDia);
             }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao obter alunos por data: {ex.Message}");
+                return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao obter alunos por data e horário: {ex.Message}");
             }
         }
+
 
 
 

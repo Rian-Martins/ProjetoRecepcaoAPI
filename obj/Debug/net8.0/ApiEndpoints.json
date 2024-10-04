@@ -138,8 +138,8 @@
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.alunosController",
-    "Method": "GetAlunoByData",
-    "RelativePath": "api/alunos/pesquisar/data/{data}",
+    "Method": "GetAlunoByDataAndHorario",
+    "RelativePath": "api/alunos/pesquisar/data/{data}/horario/{horario}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -147,6 +147,11 @@
       {
         "Name": "data",
         "Type": "System.DateOnly",
+        "IsRequired": true
+      },
+      {
+        "Name": "horario",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -161,7 +166,7 @@
         "StatusCode": 200
       }
     ],
-    "EndpointName": "GetAlunoByData"
+    "EndpointName": "GetAlunoByDataAndHorario"
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.alunosController",

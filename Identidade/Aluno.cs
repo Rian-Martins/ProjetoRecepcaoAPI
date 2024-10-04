@@ -32,13 +32,15 @@ namespace ProjetoRecepcao.Identidade
         public Aluno() { }
 
         // Construtor que inicializa o Aluno com horários e dias da semana padrão
-        public Aluno(Guid alunoId, string nome, DateOnly data, string professor, string diaSemana)
+        public Aluno(Guid alunoId, string nome, string horario,DateOnly data, string professor, string diaSemana)
         {
             AlunoId = alunoId;
             Nome = nome;
+            Horario = horario;
             Data = data;
             Professor = professor;
             DiaSemana = diaSemana;
+            
 
             // Adicionar horários e dias da semana padrão ao criar um novo Aluno
             AdicionarHorariosPadrao();
