@@ -11,6 +11,7 @@ namespace ProjetoRecepcao.Servicos
         Task<IEnumerable<PlanilhaReposicao>> GetAlunoByDataHorario(DateOnly data, string horario);
         //Task<PlanilhaReposicao> GetAlunoByDataHorario(Guid alunoId, DateOnly data);
         Task CreatePlanilhaReposicao(PlanilhaReposicao planilhaReposicao);
+        Task AddAlunosReposicao(List<PlanilhaReposicao> planilhaReposicaos);
         Task UpdatePlanilhaReposicao(PlanilhaReposicao planilhaReposicao);
         Task DeletePlanilhaReposicao(PlanilhaReposicao planilhaReposicao);
     }

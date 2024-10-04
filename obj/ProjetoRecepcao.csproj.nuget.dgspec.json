@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
             "Identity.Core": {
               "target": "Package",
               "version": "[1.2.7, )"

@@ -6,6 +6,8 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using ProjetoRecepcao.Conversores;
 using ProjetoRecepcao.Roteamento;
+using OfficeOpenXml;
+using LicenseContext = OfficeOpenXml.LicenseContext;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,11 +31,17 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IAlunoService, AlunoService>();
 builder.Services.AddScoped<IReposicaoService, ReposicaoService>();
 
+
 builder.Services.Configure<RouteOptions>(options =>
 {
     options.ConstraintMap.Add("date", typeof(DateOnlyRouteConstraint));
     options.ConstraintMap.Add("customConstraint", typeof(CustomRouteConstraint));
 });
+
+
+
+//licença global
+ExcelPackage.LicenseContext = LicenseContext.NonCommercial;  // Definindo globalmente
 
 
 

@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using OfficeOpenXml;
+using OfficeOpenXml.Style;
 using ProjetoRecepcao.Identidade;
 using ProjetoRecepcao.Servicos;
 using System.Xml.Linq;
@@ -173,5 +175,92 @@ namespace ProjetoRecepcao.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao excluir aluno: {ex.Message}");
             }
         }
+
+
+        [HttpGet("export/excel")]
+        public async Task<IActionResult> ExportToExcel()
+        {
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;  // Definindo o contexto de licença
+
+            var alunos = await _reposicaoService.GetReposicao(); // Obtém os dados do banco
+
+            using (var package = new ExcelPackage())
+            {
+                var worksheet = package.Workbook.Worksheets.Add("Alunos");
+
+                // Cabeçalhos
+                worksheet.Cells[1, 1].Value = "AlunoId";
+                worksheet.Cells[1, 2].Value = "Nome";
+                worksheet.Cells[1, 3].Value = "Horario";
+                worksheet.Cells[1, 4].Value = "Data";
+                worksheet.Cells[1, 5].Value = "Professor";
+                worksheet.Cells[1, 6].Value = "DiaSemana";
+
+                // Popula os dados da planilha
+                int row = 2;
+                foreach (var aluno in alunos)
+                {
+                    worksheet.Cells[row, 1].Value = aluno.AlunoId;
+                    worksheet.Cells[row, 2].Value = aluno.Nome;
+                    worksheet.Cells[row, 3].Value = aluno.Horario;
+                    worksheet.Cells[row, 4].Value = aluno.Data.ToString("yyyy-MM-dd");
+                    worksheet.Cells[row, 5].Value = aluno.Professor;
+                    worksheet.Cells[row, 6].Value = aluno.DiaSemana;
+                    row++;
+                }
+
+                // Configurações de estilo da planilha (opcional)
+                worksheet.Cells[1, 1, 1, 6].Style.Font.Bold = true;
+                worksheet.Cells.AutoFitColumns();
+
+                var excelBytes = package.GetAsByteArray();
+                return File(excelBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "alunos.xlsx");
+            }
+        }
+
+
+        [HttpPost("import/excel")]
+        public async Task<IActionResult> ImportFromExcel(IFormFile file)
+        {
+            if (file == null || file.Length == 0)
+                return BadRequest("Nenhum arquivo foi enviado.");
+
+            using (var stream = new MemoryStream())
+            {
+                await file.CopyToAsync(stream);
+                using (var package = new ExcelPackage(stream))
+                {
+                    var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+                    if (worksheet == null)
+                        return BadRequest("O arquivo Excel está vazio.");
+
+                    var rowCount = worksheet.Dimension.Rows;
+
+                    var alunos = new List<PlanilhaReposicao>();
+
+                    // Percorrer as linhas (começando na linha 2 para ignorar o cabeçalho)
+                    for (int row = 2; row <= rowCount; row++)
+                    {
+                        var aluno = new PlanilhaReposicao
+                        {
+                            AlunoId = Guid.NewGuid(), // Gerar novo ID
+                            Nome = worksheet.Cells[row, 2].Value?.ToString(),
+                            Horario = worksheet.Cells[row, 3].Value?.ToString(),
+                            Data = DateOnly.Parse(worksheet.Cells[row, 4].Value?.ToString()),
+                            Professor = worksheet.Cells[row, 5].Value?.ToString(),
+                            DiaSemana = worksheet.Cells[row, 6].Value?.ToString()
+                        };
+                        alunos.Add(aluno);
+                    }
+
+                    // Adicionar no banco de dados
+                    await _reposicaoService.AddAlunosReposicao(alunos);
+                }
+            }
+
+            return Ok("Dados importados com sucesso!");
+        }
+
+
     }
 }

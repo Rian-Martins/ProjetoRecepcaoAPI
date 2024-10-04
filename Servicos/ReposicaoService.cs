@@ -136,6 +136,12 @@ namespace ProjetoRecepcao.Servicos
             }
         }
 
-       
+        public async Task AddAlunosReposicao(List<PlanilhaReposicao> planilhaReposicaos)
+        {
+            _context.PlanilhaReposicaos.AddRange(planilhaReposicaos);  // Adiciona os alunos ao DbSet
+            await _context.SaveChangesAsync(); // Salva as mudanças no banco de dados
+        }
+
+
     }
 }

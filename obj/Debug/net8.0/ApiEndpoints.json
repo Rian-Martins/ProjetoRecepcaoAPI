@@ -257,6 +257,32 @@
   },
   {
     "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "ExportToExcel",
+    "RelativePath": "api/alunosreposicao/export/excel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "ImportFromExcel",
+    "RelativePath": "api/alunosreposicao/import/excel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
     "Method": "GetAlunoByDataHorario",
     "RelativePath": "api/alunosreposicao/listar/data/{data}/horario/{horario}",
     "HttpMethod": "GET",
