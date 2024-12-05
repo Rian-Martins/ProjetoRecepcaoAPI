@@ -1,14 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OfficeOpenXml;
 using OfficeOpenXml.Style;
 using ProjetoRecepcao.Identidade;
-using ProjetoRecepcao.Servicos;
+using ProjetoRecepcao.Servicos.Interfaces;
 using System.Xml.Linq;
 
 namespace ProjetoRecepcao.Controllers
 {
-    [Route("api/alunosreposicao")]
+  
+  [ApiController]
+  [Route("api/alunosreposicao")]
     public class PlanilhaReposicaoController : Controller
     {
 
@@ -20,28 +23,43 @@ namespace ProjetoRecepcao.Controllers
             _reposicaoService = reposicaoService;
 
         }
-        [HttpGet("listar/data/{data}/horario/{horario}")]
-        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataHorario(DateOnly data, string horario)
+    [HttpGet("listar/data/{data}/horario/{horario}")]
+    public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataHorario(string data, string horario)
+    {
+      try
+      {
+        // Validação simples do formato da data e conversão para DateTime
+        if (!DateTime.TryParseExact(data, "yyyy-MM-dd", null, System.Globalization.DateTimeStyles.None, out var parsedDate))
         {
-            try
-            {
-                // Supondo que você tenha um método no seu serviço que recebe data e horário
-                var reposicaoDia = await _reposicaoService.GetAlunoByDataHorario(data, horario);
-
-                if (!reposicaoDia.Any())
-                {
-                    return NotFound($"Não existem alunos com a data: {data} e horário: {horario}");
-                }
-
-                return Ok(reposicaoDia);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao obter alunos por data e horário: {ex.Message}");
-            }
+          return BadRequest("O formato da data está inválido. Use o formato 'yyyy-MM-dd'.");
         }
 
-        [HttpGet("listarrepo")]
+        // Converter a data para string no formato correto
+        string formattedDate = parsedDate.ToString("yyyy-MM-dd");
+
+        // Busca os registros no serviço
+        var reposicaoDia = await _reposicaoService.GetAlunoByDataHorario(formattedDate, horario);
+
+        if (!reposicaoDia.Any())
+        {
+          return NotFound($"Não existem alunos com a data: {formattedDate} e horário: {horario}");
+        }
+
+        return Ok(reposicaoDia);
+      }
+      catch (Exception ex)
+      {
+        return StatusCode(StatusCodes.Status500InternalServerError, $"Erro ao obter alunos por data e horário: {ex.Message}");
+      }
+    }
+
+
+
+
+
+
+
+    [HttpGet("listarrepo")]
         public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetReposicao()
         {
             try
@@ -85,7 +103,11 @@ namespace ProjetoRecepcao.Controllers
                     return BadRequest("Dados do aluno não fornecidos.");
                 }
 
-                await _reposicaoService.CreatePlanilhaReposicao(planilhaReposicao);
+                
+
+
+
+        await _reposicaoService.CreatePlanilhaReposicao(planilhaReposicao);
 
                 // Use o nome da rota definida no método "GetAlunoById"
                 return CreatedAtRoute("GetReposicaoById", new { id = planilhaReposicao.AlunoId }, planilhaReposicao);
@@ -203,7 +225,7 @@ namespace ProjetoRecepcao.Controllers
                     worksheet.Cells[row, 1].Value = aluno.AlunoId;
                     worksheet.Cells[row, 2].Value = aluno.Nome;
                     worksheet.Cells[row, 3].Value = aluno.Horario;
-                    worksheet.Cells[row, 4].Value = aluno.Data.ToString("yyyy-MM-dd");
+                    //worksheet.Cells[row, 4].Value = aluno.Data.ToString("yyyy-MM-dd");
                     worksheet.Cells[row, 5].Value = aluno.Professor;
                     worksheet.Cells[row, 6].Value = aluno.DiaSemana;
                     row++;
@@ -219,47 +241,47 @@ namespace ProjetoRecepcao.Controllers
         }
 
 
-        [HttpPost("import/excel")]
-        public async Task<IActionResult> ImportFromExcel(IFormFile file)
-        {
-            if (file == null || file.Length == 0)
-                return BadRequest("Nenhum arquivo foi enviado.");
+        //[HttpPost("import/excel")]
+        //public async Task<IActionResult> ImportFromExcel(IFormFile file)
+        //{
+        //    if (file == null || file.Length == 0)
+        //        return BadRequest("Nenhum arquivo foi enviado.");
 
-            using (var stream = new MemoryStream())
-            {
-                await file.CopyToAsync(stream);
-                using (var package = new ExcelPackage(stream))
-                {
-                    var worksheet = package.Workbook.Worksheets.FirstOrDefault();
-                    if (worksheet == null)
-                        return BadRequest("O arquivo Excel está vazio.");
+        //    using (var stream = new MemoryStream())
+        //    {
+        //        await file.CopyToAsync(stream);
+        //        using (var package = new ExcelPackage(stream))
+        //        {
+        //            var worksheet = package.Workbook.Worksheets.FirstOrDefault();
+        //            if (worksheet == null)
+        //                return BadRequest("O arquivo Excel está vazio.");
 
-                    var rowCount = worksheet.Dimension.Rows;
+        //            var rowCount = worksheet.Dimension.Rows;
 
-                    var alunos = new List<PlanilhaReposicao>();
+        //            var alunos = new List<PlanilhaReposicao>();
 
-                    // Percorrer as linhas (começando na linha 2 para ignorar o cabeçalho)
-                    for (int row = 2; row <= rowCount; row++)
-                    {
-                        var aluno = new PlanilhaReposicao
-                        {
-                            AlunoId = Guid.NewGuid(), // Gerar novo ID
-                            Nome = worksheet.Cells[row, 2].Value?.ToString(),
-                            Horario = worksheet.Cells[row, 3].Value?.ToString(),
-                            Data = DateOnly.Parse(worksheet.Cells[row, 4].Value?.ToString()),
-                            Professor = worksheet.Cells[row, 5].Value?.ToString(),
-                            DiaSemana = worksheet.Cells[row, 6].Value?.ToString()
-                        };
-                        alunos.Add(aluno);
-                    }
+        //            // Percorrer as linhas (começando na linha 2 para ignorar o cabeçalho)
+        //            for (int row = 2; row <= rowCount; row++)
+        //            {
+        //                var aluno = new PlanilhaReposicao
+        //                {
+        //                    AlunoId = Guid.NewGuid(), // Gerar novo ID
+        //                    Nome = worksheet.Cells[row, 2].Value?.ToString(),
+        //                    Horario = worksheet.Cells[row, 3].Value?.ToString(),
+        //                    Data = DateOnly.Parse(worksheet.Cells[row, 4].Value?.ToString()),
+        //                    Professor = worksheet.Cells[row, 5].Value?.ToString(),
+        //                    DiaSemana = worksheet.Cells[row, 6].Value?.ToString()
+        //                };
+        //                alunos.Add(aluno);
+        //            }
 
-                    // Adicionar no banco de dados
-                    await _reposicaoService.AddAlunosReposicao(alunos);
-                }
-            }
+        //            // Adicionar no banco de dados
+        //            await _reposicaoService.AddAlunosReposicao(alunos);
+        //        }
+        //    }
 
-            return Ok("Dados importados com sucesso!");
-        }
+        //    return Ok("Dados importados com sucesso!");
+        //}
 
 
     }

@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+using api_db.Identity;
+using Microsoft.EntityFrameworkCore;
 using ProjetoRecepcao.Contexto;
 using ProjetoRecepcao.Identidade;
+using ProjetoRecepcao.Servicos.Interfaces;
 
 namespace ProjetoRecepcao.Servicos
 {
-    public class AlunoService : IAlunoService 
+  public class AlunoService : IAlunoService 
     {
         private readonly AppDbContext _context;
 
@@ -64,50 +66,83 @@ namespace ProjetoRecepcao.Servicos
         }
 
 
-        public async Task CreateAluno(Aluno aluno)
+    public async Task CreateAluno(Aluno aluno)
+    {
+      using (var transaction = await _context.Database.BeginTransactionAsync())
+      {
+        aluno.AlunoId = Guid.Empty;
+
+        try
         {
-            if (aluno == null)
-            {
-                throw new ArgumentNullException(nameof(aluno), "O campo aluno não pode ser nulo");
-            }
+          if (aluno == null)
+            throw new ArgumentNullException(nameof(aluno), "O objeto aluno não pode ser nulo.");
 
-            try
-            {
-                // Gerar um novo ID para o aluno
-                aluno.AlunoId = Guid.NewGuid();
+       
+          _context.Alunos.Add(aluno);
 
 
-                _context.Alunos.Add(aluno);
 
-                //abaixo e somente para gerar uma relação entre tabelas/identidades
-                //if(aluno.AlunoHorarios != null)
-                //{
-                //    aluno.AlunoHorarios = new List<AlunoHorario>();
-                //}
-                //// Sincronizar os horários do Aluno com os AlunoHorarios
-                //foreach (var alunoHorario in aluno.AlunoHorarios)
-                //{
-                //    alunoHorario.Id = Guid.NewGuid(); // Garante que o Id de cada AlunoHorario seja único                    
-                //    alunoHorario.Horario = aluno.Horario; // Sincroniza o Horario de Aluno para AlunoHorario
-                //    alunoHorario.Aluno = aluno;
 
-                //    // Adicionar o novo aluno ao contexto
-                    
+          // Cria uma nova entrada na PlanilhaReposicao com os dados do aluno
+          var planilhaReposicao = new PlanilhaReposicao
+          {
 
-                    // Salvar as alterações no banco de dados
-                    await _context.SaveChangesAsync();
-                //}
-                
-            }
-            catch (Exception ex)
-            {
-                // Tratar a exceção de forma apropriada (log, rethrow, etc.)
-                Console.WriteLine($"Erro ao criar aluno: {ex.Message}");
-                throw;
-            }
+            AlunoId = aluno.AlunoId,
+            Nome = aluno.Nome,
+            Horario = aluno.Horario,
+            Data = (string)aluno.Data,
+            Professor = aluno.Professor,
+            DiaSemana = aluno.DiaSemana
+          };
+
+          
+          var alunoReposicao = new alunosreposicao
+          {
+            AlunoId = aluno.AlunoId,
+            Nome = aluno.Nome,
+            Horario = aluno.Horario,
+            DiaSemana = aluno.DiaSemana,
+            Reagendamento = false
+            
+          };
+
+          var criacaoPlanAlunos = new criacaoplanalunos
+          {
+            AlunoId = aluno.AlunoId,
+            Nome = aluno.Nome,
+            Horario = aluno.Horario
+          };
+
+          // Adiciona a planilha de reposição ao contexto
+          _context.PlanilhaReposicaos.AddAsync(planilhaReposicao);
+          _context.alunosreposicaos.AddAsync(alunoReposicao);
+          _context.criacaoplanalunos.AddAsync(criacaoPlanAlunos);
+
+
+          try
+          {
+            await _context.SaveChangesAsync();
+          }
+          catch (DbUpdateException ex)
+          {
+            // Exibe a mensagem da exceção interna
+            Console.WriteLine(ex.InnerException?.Message);
+            throw;
+          }
+
+          await transaction.CommitAsync();
         }
+        catch (Exception)
+        {
+          //Reverte a transação em caso de erro
+          await transaction.RollbackAsync();
+          throw;
+        }
+      }
+    }
 
-        public async Task UpdateAluno(Aluno aluno)
+
+    public async Task UpdateAluno(Aluno aluno)
         {
             if (aluno == null)
             {
@@ -150,7 +185,7 @@ namespace ProjetoRecepcao.Servicos
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<Aluno>> GetAlunoByData(DateOnly data, string horario)
+        public async Task<IEnumerable<Aluno>> GetAlunoByData(string data, string horario)
         {
             return await _context.Alunos
                 .Where(p => p.Data == data && p.Horario == horario)
@@ -158,7 +193,7 @@ namespace ProjetoRecepcao.Servicos
         }
 
         //não está sendo utilizado
-        public async Task<Aluno> GetAlunoBydata(Guid alunoId, DateOnly data)
+        public async Task<Aluno> GetAlunoBydata(Guid alunoId, string data)
         {
             return await _context.Alunos
                 .Where(n => n.AlunoId == alunoId && n.Data == data) // Filtra por ID e data

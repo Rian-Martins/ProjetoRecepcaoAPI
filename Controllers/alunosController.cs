@@ -1,22 +1,25 @@
-﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProjetoRecepcao.Conversores;
 using ProjetoRecepcao.Identidade;
-using ProjetoRecepcao.Servicos;
 using System.Drawing;
 using System;
+using ProjetoRecepcao.Servicos.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ProjetoRecepcao.Controllers
 {
-    [Route("api/alunos")]
-    [ApiController]
+  
+  [ApiController]
+  [Route("api/alunos")]
+  
     public class alunosController : ControllerBase
     {
         private readonly IAlunoService _alunoService;
        
 
-        // Construtor combinado
+        
         public alunosController(IAlunoService alunoService)
         {
             _alunoService = alunoService;
@@ -83,7 +86,9 @@ namespace ProjetoRecepcao.Controllers
                     return BadRequest("Dados do aluno não fornecidos.");
                 }
 
-                await _alunoService.CreateAluno(aluno);
+               
+
+        await _alunoService.CreateAluno(aluno);
 
                 // Use o nome da rota definida no método "GetAlunoById"
                 return CreatedAtRoute("GetAlunoById", new { id = aluno.AlunoId }, aluno);
@@ -173,12 +178,21 @@ namespace ProjetoRecepcao.Controllers
             }
         }
         [HttpGet("pesquisar/data/{data}/horario/{horario}")]
-        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataAndHorario(DateOnly data, string horario)
+        public async Task<ActionResult<IAsyncEnumerable<PlanilhaReposicao>>> GetAlunoByDataAndHorario(string data, string horario)
         {
             try
             {
-                // Supondo que você tenha um método no seu serviço que recebe data e horário
-                var reposicaoDia = await _alunoService.GetAlunoByData(data, horario);
+              // Validação simples do formato da data e conversão para DateTime
+              if (!DateTime.TryParseExact(data, "yyyy-MM-dd", null, System.Globalization.DateTimeStyles.None, out var parsedDate))
+              {
+                return BadRequest("O formato da data está inválido. Use o formato 'yyyy-MM-dd'.");
+              }
+
+              // Converter a data para string no formato correto
+              string formattedDate = parsedDate.ToString("yyyy-MM-dd");
+
+        // Supondo que você tenha um método no seu serviço que recebe data e horário
+        var reposicaoDia = await _alunoService.GetAlunoByData(data, horario);
 
                 if (!reposicaoDia.Any())
                 {

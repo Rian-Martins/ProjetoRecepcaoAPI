@@ -224,15 +224,13 @@ namespace ProjetoRecepcao.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<DateOnly>("Data")
-                        .HasColumnType("date");
+                    b.Property<string>("Data")
+                        .HasColumnType("text");
 
                     b.Property<string>("DiaSemana")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Horario")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Nome")
@@ -246,21 +244,81 @@ namespace ProjetoRecepcao.Migrations
                     b.ToTable("Alunos");
                 });
 
-            modelBuilder.Entity("ProjetoRecepcao.Identidade.PlanilhaReposicao", b =>
+            modelBuilder.Entity("ProjetoRecepcao.Identidade.Gestores.Cadastro", b =>
                 {
-                    b.Property<Guid>("AlunoId")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<DateOnly>("Data")
-                        .HasColumnType("date");
-
-                    b.Property<string>("DiaSemana")
+                    b.Property<string>("Descricao")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Horario")
+                    b.Property<string>("Email")
                         .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Funcao")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Senha")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("cadastros");
+                });
+
+            modelBuilder.Entity("ProjetoRecepcao.Identidade.Gestores.Login", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Descricao")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Funcao")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Senha")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("logins");
+                });
+
+            modelBuilder.Entity("ProjetoRecepcao.Identidade.PlanilhaReposicao", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("AlunoId")
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Data")
+                        .HasColumnType("text");
+
+                    b.Property<string>("DiaSemana")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Horario")
                         .HasColumnType("text");
 
                     b.Property<string>("Nome")
@@ -269,9 +327,61 @@ namespace ProjetoRecepcao.Migrations
                     b.Property<string>("Professor")
                         .HasColumnType("text");
 
-                    b.HasKey("AlunoId");
+                    b.HasKey("Id");
 
                     b.ToTable("PlanilhaReposicao");
+                });
+
+            modelBuilder.Entity("api_db.Identity.alunosreposicao", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("AlunoId")
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("DiaSemana")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Horario")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Observacoes")
+                        .HasColumnType("text");
+
+                    b.Property<bool?>("Reagendamento")
+                        .HasColumnType("boolean");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("alunosreposicaos");
+                });
+
+            modelBuilder.Entity("api_db.Identity.criacaoplanalunos", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid?>("AlunoId")
+                        .HasColumnType("uuid");
+
+                    b.Property<DateOnly>("DataNovaMarcacao")
+                        .HasColumnType("date");
+
+                    b.Property<string>("Horario")
+                        .HasColumnType("text");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("criacaoplanalunos");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using api_db.Identity;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Npgsql.EntityFrameworkCore.PostgreSQL.Query.ExpressionTranslators.Internal;
 using ProjetoRecepcao.Identidade;
 using System;
 using System.Collections.Generic;
@@ -13,28 +15,32 @@ namespace ProjetoRecepcao.Identidade
     {
 
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Guid AlunoId { get; set; }
         public string? Nome { get; set; }
-        public string Horario { get; set; }
-        public DateOnly Data { get; set; }
+        public string? Horario { get; set; }
+        public string? Data { get; set; }
         public string? Professor { get; set; }
-        public string DiaSemana { get; set; }
+        public string? DiaSemana { get; set; }
 
 
-        // Propriedade de navegação para os horários do aluno
-        //public ICollection<AlunoHorario> AlunoHorarios { get; set; } = new List<AlunoHorario>();
-
-        // Propriedade de navegação para os dias da semana do aluno
-        //public ICollection<AlunoDiaSemana> AlunoDiaSemanas { get; set; } = new List<AlunoDiaSemana>();
+     
 
 
-        // Construtor padrão necessário para a deserialização
-        public Aluno() { }
+    // Propriedade de navegação para os horários do aluno
+    //public ICollection<AlunoHorario> AlunoHorarios { get; set; } = new List<AlunoHorario>();
+
+    // Propriedade de navegação para os dias da semana do aluno
+    //public ICollection<AlunoDiaSemana> AlunoDiaSemanas { get; set; } = new List<AlunoDiaSemana>();
+
+
+    // Construtor padrão necessário para a deserialização
+    public Aluno() { }
 
         // Construtor que inicializa o Aluno com horários e dias da semana padrão
-        public Aluno(Guid alunoId, string nome, string horario,DateOnly data, string professor, string diaSemana)
+        public Aluno(string nome, string horario, string data, string professor, string diaSemana)
         {
-            AlunoId = alunoId;
+            AlunoId = Guid.NewGuid();
             Nome = nome;
             Horario = horario;
             Data = data;

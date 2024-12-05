@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 
 
@@ -14,9 +14,10 @@ namespace ProjetoRecepcao.Contexto
                 .Build();
 
             var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
-            optionsBuilder.UseNpgsql(configuration.GetConnectionString("DefaultConnection"));
+            optionsBuilder.UseNpgsql(configuration.GetConnectionString("DefaultConnection"))
+            .LogTo(Console.WriteLine, LogLevel.Information);
 
-            return new AppDbContext(optionsBuilder.Options);
+      return new AppDbContext(optionsBuilder.Options);
         }
     }
 }

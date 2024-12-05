@@ -8,6 +8,9 @@ using ProjetoRecepcao.Conversores;
 using ProjetoRecepcao.Roteamento;
 using OfficeOpenXml;
 using LicenseContext = OfficeOpenXml.LicenseContext;
+using ProjetoRecepcao.Servicos.Interfaces;
+using Microsoft.AspNetCore.Identity;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,10 +29,24 @@ builder.Services.AddSwaggerGen();
 
 var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));//String para a conex„o
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));//String para a conex√£o
 
+var key = Encoding.ASCII.GetBytes(builder.Configuration["JwtSettings:SecretKey"]);
+
+
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+        .AddEntityFrameworkStores<AppDbContext>()
+        .AddDefaultTokenProviders();
+
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<ICadastroService, CadastroService>();
+builder.Services.AddScoped<ILoginService, LoginService>();
 builder.Services.AddScoped<IAlunoService, AlunoService>();
 builder.Services.AddScoped<IReposicaoService, ReposicaoService>();
+builder.Services.AddScoped<IalunosreposicaoService, alunosreposicaoService>();
+builder.Services.AddScoped<ICriacaoPlanAlunosService, CriacaoPlanAlunosService>();
 
 
 builder.Services.Configure<RouteOptions>(options =>
@@ -40,7 +57,7 @@ builder.Services.Configure<RouteOptions>(options =>
 
 
 
-//licenÁa global
+//licen√ßa global
 ExcelPackage.LicenseContext = LicenseContext.NonCommercial;  // Definindo globalmente
 
 
@@ -49,12 +66,13 @@ ExcelPackage.LicenseContext = LicenseContext.NonCommercial;  // Definindo global
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost3000",
+    options.AddPolicy("AllowLocalhost4200",
         builder =>
         {
-            builder.WithOrigins("http://localhost:3000")
-                   .AllowAnyMethod()
-                   .AllowAnyHeader();
+          builder.WithOrigins("http://localhost:4200")
+                 .AllowAnyMethod()
+                 .AllowAnyHeader()
+                 .AllowCredentials();
         });
 });
 
@@ -70,8 +88,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowLocalhost3000");
+app.UseCors("AllowLocalhost4200");
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

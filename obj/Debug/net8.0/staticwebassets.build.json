@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "4EqNvpLJ7OxYnT1wMgOIbY9Rfq87tZuWjXQ1IuB1w+I=",
+  "Hash": "iG/LolFhxUfdVtao5ncETLMUI4l2+OkVB/K2drr8ORs=",
   "Source": "ProjetoRecepcao",
   "BasePath": "_content/ProjetoRecepcao",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
