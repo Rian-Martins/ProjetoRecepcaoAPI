@@ -33,6 +33,7 @@ namespace ProjetoRecepcao.Contexto
 
       // Configuração da entidade alunosreposicao
       modelBuilder.Entity<alunosreposicao>();
+        
 
       // Configuração da entidade criacaoplanalunos
       modelBuilder.Entity<criacaoplanalunos>();

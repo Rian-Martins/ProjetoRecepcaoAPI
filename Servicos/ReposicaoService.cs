@@ -26,9 +26,9 @@ namespace ProjetoRecepcao.Servicos
             }
         }
 
-        public async Task<PlanilhaReposicao> GetReposicao(Guid id)
+        public async Task<PlanilhaReposicao> GetReposicao(Guid alunoId)
         {
-            var alunoReposicao = await _context.PlanilhaReposicaos.FindAsync(id);
+            var alunoReposicao = await _context.PlanilhaReposicaos.FindAsync(alunoId);
             return alunoReposicao;
         }
 
@@ -140,6 +140,38 @@ namespace ProjetoRecepcao.Servicos
             await _context.SaveChangesAsync(); // Salva as mudanças no banco de dados
         }
 
+    public async Task CreatePlanilhasGrande()
+    {
 
+      
     }
+
+    public async Task<IList<PlanilhaReposicao>> CreatePlanilhasGrande(List<PlanilhaReposicao> planilhas)
+    {
+      // Adiciona as planilhas no contexto
+      await _context.PlanilhaReposicaos.AddRangeAsync(planilhas);
+      await _context.SaveChangesAsync();
+
+      // Retorna a lista de planilhas que foram salvas
+      return planilhas;
+    }
+
+    public async Task CreatePlanilhaReposicao(List<PlanilhaReposicao> planilhas)
+    {
+      if (planilhas == null || planilhas.Count == 0)
+      {
+        throw new ArgumentException("A lista de planilhas não pode estar vazia.");
+      }
+
+      try
+      {
+        await _context.PlanilhaReposicaos.AddRangeAsync(planilhas);
+        await _context.SaveChangesAsync();
+      }
+      catch (Exception ex)
+      {
+        throw new InvalidOperationException("Erro ao salvar as planilhas de reposição no banco de dados.", ex);
+      }
+    }
+  }
 }

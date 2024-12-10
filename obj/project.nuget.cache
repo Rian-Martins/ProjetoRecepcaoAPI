@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tUPTHQ150ao=",
+  "dgSpecHash": "dQeLK+SlL1Q=",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Rian\\9 Projetos\\3 DISTEC - SYSTEM\\ProjetosRoyal\\ProjetoRecepcao\\recepcaoAngular-main\\ProjetoRecepcao\\ProjetoRecepcao.csproj",
+  "projectFilePath": "D:\\Arquivos Rian\\9 Projetos\\3 DISTEC - SYSTEM\\ProjetosRoyal\\ProjetoRecepcao\\05-12-2024\\recepcaoAngular-main\\ProjetoRecepcao\\ProjetoRecepcao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riann\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\riann\\.nuget\\packages\\epplus\\7.5.1\\epplus.7.5.1.nupkg.sha512",

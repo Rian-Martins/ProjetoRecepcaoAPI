@@ -678,7 +678,7 @@
         }
       }
     },
-    "/api/Login/search": {
+    "/api/Login/search/logins  ": {
       "get": {
         "tags": [
           "Login"
@@ -1024,6 +1024,48 @@
           }
         }
       }
+    },
+    "/salvar-planilhas": {
+      "post": {
+        "tags": [
+          "PlanilhaReposicao"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": { }
+            },
+            "text/json": {
+              "schema": { }
+            },
+            "application/*+json": {
+              "schema": { }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
@@ -1126,10 +1168,6 @@
       "PlanilhaReposicao": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
           "alunoId": {
             "type": "string",
             "format": "uuid"

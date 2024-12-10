@@ -66,7 +66,7 @@ ExcelPackage.LicenseContext = LicenseContext.NonCommercial;  // Definindo global
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost4200",
+    options.AddPolicy("development",
         builder =>
         {
           builder.WithOrigins("http://localhost:4200")
@@ -88,7 +88,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowLocalhost4200");
+app.UseCors("development");
 
 app.UseAuthentication();
 app.UseAuthorization();

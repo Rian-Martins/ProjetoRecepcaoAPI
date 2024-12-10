@@ -61,7 +61,7 @@ namespace ProjetoRecepcao.Servicos
       if (alunoReposicao == null)
         throw new ArgumentNullException(nameof(alunoReposicao), "O objeto alunoReposicao não pode ser nulo.");
 
-      alunoReposicao.Id = Guid.NewGuid();
+      
       _context.alunosreposicaos.Add(alunoReposicao);
       await _context.SaveChangesAsync();
     }
@@ -100,5 +100,7 @@ namespace ProjetoRecepcao.Servicos
 
       return "Aluno não reagendado";
     }
+
+    
   }
 }

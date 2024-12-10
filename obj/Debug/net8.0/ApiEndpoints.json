@@ -488,7 +488,7 @@
   {
     "ContainingType": "ProjetoRecepcao.Controllers.LoginController",
     "Method": "GetLoginsByNome",
-    "RelativePath": "api/Login/search",
+    "RelativePath": "api/Login/search/logins  ",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -584,6 +584,32 @@
     "ReturnTypes": [
       {
         "Type": "ProjetoRecepcao.Identidade.PlanilhaReposicao",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoRecepcao.Controllers.PlanilhaReposicaoController",
+    "Method": "CreatePlanilhasGrande",
+    "RelativePath": "salvar-planilhas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dados",
+        "Type": "System.Text.Json.JsonElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",

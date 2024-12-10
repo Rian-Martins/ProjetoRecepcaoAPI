@@ -114,7 +114,7 @@ namespace ProjetoRecepcao.Controllers
     }
 
     // GET: api/login/search?nome={nome}
-    [HttpGet("search")]
+    [HttpGet("search/logins  ")]
     public async Task<ActionResult<IEnumerable<Login>>> GetLoginsByNome([FromQuery] string nome)
     {
       try
